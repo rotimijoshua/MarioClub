@@ -3,5 +3,103 @@
     margin:0;
     padding:0;
     font-family:cursive;
+
+}
+
+div.main-title {
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}
+
+div.main-title h1{
+    color: white;
+    border-radius: 20px;
+    display: inline-block;
+    border: white 5px solid;
+    padding: 10px;
+
+}
+
+nav.nav-content{
+    background-color: gray;
+    text-align: center;
+    padding: 15px;
     
+}
+
+nav.nav-content a{
+    color: white;
+    margin: 100px;
+}
+
+
+div.banner-container img{
+    width: 100%;
+    border-bottom: 10px red solid;
+
+}
+
+div.main-body h1{
+    color: red;
+    text-align:center;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 20px;
+
+}
+
+div.main-body p{
+    text-align: justify;
+    margin: 0px 100px 0px 100px;
+    font-size: 25px;
+
+}
+
+
+div.footer{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-size: 20px;
+}
+
+div.mainbody h1{
+    font-size: 25px;
+    text-align: center;
+    color: red;
+    
+}   
+
+div.friend{
+    background-color: lightgray;
+    text-align: center;
+    margin: 30px 80px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+div.friend h3{
+    color: red;
+    font-size: 25px;
+
+}
+div.friend p{
+    font-size: 25px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+div.main-body h4{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+div.images{
+    text-align: center;
+
 }

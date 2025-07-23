@@ -37,7 +37,6 @@ nav.nav-content a{
 div.banner-container img{
     width: 100%;
     border-bottom: 10px red solid;
-
 }
 
 div.main-body h1{
@@ -46,6 +45,7 @@ div.main-body h1{
     font-size: 50px;
     line-height: 50px;
     padding: 20px;
+    margin: 10px;
 
 }
 
@@ -96,10 +96,56 @@ div.main-body h4{
     font-size: 30px;
     text-align: center;
     padding: 25px;
-    
+
 }
 
 div.images{
     text-align: center;
+    margin: 50px;
 
+}
+
+div.images img{
+    border-bottom: red 8px solid;
+    margin: 15px;
+}
+
+img.body{
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin: 20px;
+    position: relative;
+}
+
+div.form-container {
+    position: absolute;
+    display: block;
+    padding: 30px;
+    top: 400px;
+    left: 100px;
+    background-color: lightgrey;
+    border-radius: 35px;;
+    
+}
+
+input {
+    display: block;
+    font-size: 30px;
+    margin: 15px;
+    
+}
+
+div.last-button{
+background-color: red;
+}
+    
+input.inner{
+    background-color: red;
+    color: white;
+    padding: 10px 10px;
+}
+
+textarea{
+    font-size: 30px;
 }

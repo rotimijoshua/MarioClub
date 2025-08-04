@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Playwrite+AU+QLD:wght@100..400&display=swap');
+
+.heading{
+    font-family: "Playwrite AU QLD", cursive;
+}
+
+.paragraph{
+    font-family: "Ojuju", sans-serif;
+}
+
 /* css reset */
 *{
     margin:0;
     padding:0;
-    font-family:cursive;
+    font-family:"Ojuju", sans-serif;
 
 }
 
@@ -18,7 +28,7 @@ div.main-title h1{
     display: inline-block;
     border: white 5px solid;
     padding: 10px;
-
+    font-family: "Playwrite AU QLD", cursive;
 }
 
 nav.nav-content{

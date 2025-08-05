@@ -41,6 +41,8 @@ nav.nav-content{
 nav.nav-content a{
     color: white;
     margin: 100px;
+    text-decoration: none;
+
 }
 
 

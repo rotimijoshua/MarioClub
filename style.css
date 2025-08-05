@@ -52,12 +52,20 @@ div.banner-container img{
 }
 
 div.main-body h1{
-    color: red;
+    color: white;
     text-align:center;
-    font-size: 50px;
+    font-size: 80px;
     line-height: 50px;
     padding: 20px;
     margin: 10px;
+    position: absolute;
+    bottom: 100px;
+    left: 550px;
+    border: white 4px solid;
+    padding: 30px;
+
+
+    
 
 }
 
